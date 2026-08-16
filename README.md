@@ -1,16 +1,54 @@
-## Hi there 👋
+# Привіт, я Єгор 👋
 
-<!--
-**2vo2/2vo2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | ex-Unity Developer
 
-Here are some ideas to get you started:
+Переходжу з геймдеву в аналітику даних. 4+ роки технічного досвіду (Unity/C#, архітектура систем, ООП, SOLID) зараз застосовую для роботи з даними — SQL, Power BI, Excel/Google Sheets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Тернопіль, Україна
+📧 egorzvoznikov@gmail.com
+
+---
+
+### 🛠 Стек
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 📊 Проєкти з аналізу даних
+
+> Портфоліо в процесі наповнення — нові проєкти з'являтимуться тут регулярно.
+
+| Проєкт | Опис | Стек | Посилання |
+|---|---|---|---|
+| _Coming soon_ | SQL-аналіз датасету на Kaggle | SQL | — |
+| _Coming soon_ | Дашборд з ключовими метриками | Power BI | — |
+| _Coming soon_ | Аналіз та візуалізація даних | Excel / Google Sheets | — |
+
+---
+
+## 🎮 Попередні проєкти (GameDev, Unity/C#)
+
+<details>
+<summary>Розгорнути список</summary>
+
+### [2048 3D](https://github.com/2vo2/Android_2048_3D)
+Фізична 3D-реалізація merge-механіки для Android.
+- Strategy Pattern для трьох типів кубів (Regular, Universal, Bomb)
+- Object Pool з автоматичним розширенням пулу
+
+### [Tower Defense](https://github.com/2vo2/TowerDefenseForCourse)
+Кастомний Editor Tool для процедурної генерації ігрової карти.
+- Хвильова система спавну ворогів через Coroutines + Object Pool
+- Конфігурація хвиль та ворогів через ScriptableObject
+
+</details>
+
+---
+
+⭐️ From [2vo2](https://github.com/2vo2)
