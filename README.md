@@ -2,7 +2,7 @@
 
 ## Data Analyst | ex-Unity Developer
 
-Переходжу з геймдеву в аналітику даних. 4+ роки технічного досвіду (Unity/C#, архітектура систем, ООП, SOLID) зараз застосовую для роботи з даними — SQL, Power BI, Excel/Google Sheets.
+Переходжу з геймдеву в аналітику даних. 4+ роки технічного досвіду (Unity/C#, ООП, SOLID) зараз застосовую для роботи з даними — SQL, Power BI, Excel/Google Sheets.
 
 📍 Тернопіль, Україна
 📧 egorzvoznikov@gmail.com
