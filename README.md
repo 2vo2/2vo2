@@ -24,10 +24,10 @@
 
 > Портфоліо в процесі наповнення — нові проєкти з'являтимуться тут регулярно.
 
-| Проєкт | Опис | Стек |
+| Проєкт | Опис | Стек | |
 |---|---|---|---|
 | ### [SQL Portfolio](https://github.com/2vo2/sql-portfolio) | SQL-аналіз датасетів | SQL |
-| _Coming soon_ | Дашборд з ключовими метриками | Power BI |
+| ### [Power BI Portfolio](https://github.com/2vo2/powerbi-portfolio) | Дашборд з ключовими метриками | Power BI |
 | _Coming soon_ | Аналіз та візуалізація даних | Google Sheets |
 
 ---
