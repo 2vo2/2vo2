@@ -16,19 +16,20 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## 📊 Проєкти з аналізу даних
 
-> Портфоліо в процесі наповнення — нові проєкти з'являтимуться тут регулярно.
+> Портфоліо в процесі наповнення — нові проєкти з'являтимуться тут.
 
 | Проєкт | Опис | Стек |
 |---|---|---|
 | **[SQL Portfolio](https://github.com/2vo2/sql-portfolio)** | SQL-аналіз датасетів | SQL |
 | **[Power BI Portfolio](https://github.com/2vo2/powerbi-portfolio)** | Дашборд з ключовими метриками | Power BI |
-| _Coming soon_ | Аналіз та візуалізація даних | Google Sheets |
+| **[Google Sheets Portfolio](https://github.com/2vo2/google-sheets-portfolio)** | Аналіз та візуалізація даних | Google Sheets |
 
 ---
 
