@@ -27,7 +27,8 @@
 
 | Проєкт | Опис | Стек |
 |---|---|---|
-| **[Bookstore Analytics](https://github.com/2vo2/bookstore-analytics)** | Наскрізний аналітичний проєкт на датасеті "Books Sales and Ratings" | SQL, Power BI |
+| **[E-commerce Analytics](https://github.com/2vo2/ecommerce-analytics)** | SQL-проєкт на датасеті "Brazilian E-Commerce Public Dataset by Olist" | SQL, Power BI |
+| **[Bookstore Analytics](https://github.com/2vo2/bookstore-analytics)** | SQL-проєкт на датасеті "Books Sales and Ratings" | SQL, Power BI |
 | **[SQL Portfolio](https://github.com/2vo2/sql-portfolio)** | SQL-аналіз датасетів | SQL |
 | **[Power BI Portfolio](https://github.com/2vo2/powerbi-portfolio)** | Дашборд з ключовими метриками | Power BI |
 | **[Google Sheets Portfolio](https://github.com/2vo2/google-sheets-portfolio)** | Аналіз та візуалізація даних | Google Sheets |
